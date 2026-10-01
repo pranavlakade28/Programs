@@ -1,4 +1,4 @@
-clas substraction{
+clas sub{
 public static void main(String args[])}
 int a=40;
 int b=10;
